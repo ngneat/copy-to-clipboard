@@ -1,0 +1,29 @@
+{
+  "name": "@ngneat/copy-to-clipboard",
+  "description": "Modern copy to clipboard. No Flash.",
+  "version": "1.0.0",
+  "schematics": "./schematics/src/collection.json",
+  "dependencies": {
+    "tslib": "^1.10.0",
+    "schematics-utilities": "1.1.1",
+    "copy-to-clipboard": "3.3.1"
+  },
+  "keywords": [
+    "angular",
+    "copy-to-clipboard",
+    "copy",
+    "clipboard"
+  ],
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/ngneat/copy-to-clipboard/issue"
+  },
+  "homepage": "https://github.com/ngneat/copy-to-clipboard#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ngneat/copy-to-clipboard"
+  }
+}
